@@ -1,5 +1,5 @@
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	//implementation group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '2.5.3'
+	implementation group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '2.5.3'
 	compileOnly group: 'org.projectlombok', name: 'lombok', version: '0.11.0'
 }
